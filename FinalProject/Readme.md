@@ -45,7 +45,7 @@ However, we wish to revisit this project using other loss functions in future.
 
 We used Perplexity as a measure of model's performance and we able to achieve a training perplexity of 1.4 within 75 epochs. Each epoch took about 3 secs on Colab GPU.
 
-# 25 Randomly Generated Code Samples
+# Moment of Truth: Model auto-generates Python Code Snippets for 25 randomly asked questions
 #1
 Input:
 Write a python program that checks if a string is a pallindrome
